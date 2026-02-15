@@ -153,7 +153,7 @@ class _PlateBlurrerAppState extends State<PlateBlurrerApp> {
       backgroundColor: const Color(0xFFF2F2F7),
       appBar: AppBar(
         title: const Text(
-          'Floutage plaque',
+          'Floutage 2 plaque',
           style: TextStyle(color: Colors.black),
         ),
         centerTitle: true,
